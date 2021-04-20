@@ -1,0 +1,23 @@
+{
+  "name": "renovate-9654-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloudNativeEntrepreneur/renovate-9654-reproduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CloudNativeEntrepreneur/renovate-9654-reproduction/issues"
+  },
+  "homepage": "https://github.com/CloudNativeEntrepreneur/renovate-9654-reproduction#readme",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "npm:@hot-loader/react-dom@16.14.0"
+  }
+}
