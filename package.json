@@ -102,7 +102,7 @@
     "esdoc": "0.5.2",
     "esdoc-standard-plugin": "0.0.8",
     "eslint": "4.19.1",
-    "eslint-config-prettier": "3.6.0",
+    "eslint-config-prettier": "8.3.0",
     "eslint-plugin-mocha": "5.3.0",
     "eslint-plugin-react": "7.23.2",
     "file-loader": "4.3.0",
